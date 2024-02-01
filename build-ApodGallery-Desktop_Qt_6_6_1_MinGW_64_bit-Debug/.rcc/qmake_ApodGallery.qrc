@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ApodGallery">
+    <file alias="qmldir">E:/UTB/MP/ApodGallery/build-ApodGallery-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/ApodGallery/qmldir</file>
+  </qresource>
+</RCC>
+

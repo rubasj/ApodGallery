@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b8f6a46e95106c9ed56c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ApodGallery",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-cdbe009f683021cb65ce.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-cb5530acd2c7cac01ec9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-079dfc6f279d82816eb7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-058b5cdd3d34383662e4.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery-Debug-9356faa5674a5ade4012.json",
+					"name" : "appApodGallery",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_autogen-Debug-33f2f648941f47601287.json",
+					"name" : "appApodGallery_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_autogen_timestamp_deps-Debug-fad99d44faa6a1d90422.json",
+					"name" : "appApodGallery_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_qmlimportscan-Debug-fe4e9de0d0b1ee2dd7a9.json",
+					"name" : "appApodGallery_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_qmllint-Debug-87fb4d54f549ca2f46f4.json",
+					"name" : "appApodGallery_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_qmllint_json-Debug-2340b65b7f6a0490e457.json",
+					"name" : "appApodGallery_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_qmllint_module-Debug-7c3817d7f416d82ef079.json",
+					"name" : "appApodGallery_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_qmltyperegistration-Debug-d89f805322e21fc88c3c.json",
+					"name" : "appApodGallery_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appApodGallery_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appApodGallery_tooling-Debug-882a00d020325f4e5ef1.json",
+					"name" : "appApodGallery_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/UTB/MP/ApodGallery/build-ApodGallery-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "E:/UTB/MP/ApodGallery/ApodGallery"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

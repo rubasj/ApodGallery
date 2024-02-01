@@ -14,14 +14,15 @@ class ImageElement : public QObject
 
 public:
     explicit ImageElement(QObject *parent = nullptr);
-    ImageElement(QString name, QString url, QObject *parent = nullptr);
-
+    ImageElement(QString name, QString url, bool favourite = false, QObject *parent = nullptr);
     QString name() const;
     void setName(const QString &name);
 
     QString url() const;
     void setUrl(const QString &url);
 
+    bool isfavourite() const;
+    void setfavourite(bool favourite);
 
     Q_INVOKABLE void logMessage(QString msg) {
         std::cout << "Image: " << msg.toStdString() << std::endl;
@@ -35,11 +36,12 @@ public slots:
 signals:
     void nameChanged();
     void urlChanged();
+    void favouriteChanged();
 
 private:
     QString _name;
     QString _url;
-
+    bool _favourite;
 
 };
 

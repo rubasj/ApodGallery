@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/ApodGallery">E:/UTB/MP/ApodGallery/build-ApodGallery-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/ApodGallery</file>
+
+  </qresource>
+</RCC>

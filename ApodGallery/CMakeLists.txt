@@ -18,13 +18,18 @@ qt_add_qml_module(appApodGallery
     QML_FILES Main.qml
     RESOURCES app_icons/menu.png
               app_icons/settings.png
-              app_icons/zoom_in.png
-              app_icons/zoom_out.png
+              app_icons/favourite.png
+              app_icons/favourite_unfilled.png
+              app_icons/rotate_left.png
+              app_icons/rotate_rigth.png
+
+
               img/img0.jpg
               img/img1.jpg
               img/img3.jpg
+              img/favourites/favourites.txt
               SOURCES imageelement.h imageelement.cpp
-              SOURCES apodresponsedto.h apodresponsedto.cpp
+              SOURCES
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

@@ -1,0 +1,5 @@
+module ApodGallery
+typeinfo appApodGallery.qmltypes
+prefer :/ApodGallery/
+Main 1.0 Main.qml
+

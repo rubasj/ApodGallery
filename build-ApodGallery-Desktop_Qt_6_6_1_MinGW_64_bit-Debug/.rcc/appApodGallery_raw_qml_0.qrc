@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/ApodGallery/">
+    <file alias="Main.qml">E:/UTB/MP/ApodGallery/ApodGallery/Main.qml</file>
+    <file alias="app_icons/menu.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/menu.png</file>
+    <file alias="app_icons/settings.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/settings.png</file>
+    <file alias="app_icons/favourite.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/favourite.png</file>
+    <file alias="app_icons/favourite_unfilled.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/favourite_unfilled.png</file>
+    <file alias="app_icons/rotate_left.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/rotate_left.png</file>
+    <file alias="app_icons/rotate_rigth.png">E:/UTB/MP/ApodGallery/ApodGallery/app_icons/rotate_rigth.png</file>
+    <file alias="img/img0.jpg">E:/UTB/MP/ApodGallery/ApodGallery/img/img0.jpg</file>
+    <file alias="img/img1.jpg">E:/UTB/MP/ApodGallery/ApodGallery/img/img1.jpg</file>
+    <file alias="img/img3.jpg">E:/UTB/MP/ApodGallery/ApodGallery/img/img3.jpg</file>
+    <file alias="img/favourites/favourites.txt">E:/UTB/MP/ApodGallery/ApodGallery/img/favourites/favourites.txt</file>
+  </qresource>
+</RCC>
+
